@@ -23,6 +23,9 @@
 👉 Run this command for Start Server
   
     npm run server
+
+👉 Also Import All the JSON DB Files in MONGODB Compass by Creating  a Hostel DB
+  
  
 ## Download Node JS : 
 
